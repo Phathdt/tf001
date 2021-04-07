@@ -33,3 +33,4 @@ override.tf.json
 .terraformrc
 terraform.rc
 /ansible-key.pem
+/presentation/presentation.pdf
